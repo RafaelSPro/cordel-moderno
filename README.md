@@ -5,4 +5,4 @@
 <img src="https://github.com/RafaelSPro/cordel-moderno/blob/main/imagens/desktop.JPG?raw=true"/>
 <br>
 <h3> Versão Mobile </h3>
-<img src="
+<img src="https://github.com/RafaelSPro/cordel-moderno/blob/main/imagens/mobile.JPG?raw=true"/>
